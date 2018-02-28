@@ -1,0 +1,23 @@
+# page = Page.create!(
+#   title: 'Reputation Management', 
+#   url: 'url', 
+#   string_1: 'A company or brands social and search engine profile is essentially the same thing as a version of its credit score. Online reputation management focuses on creating and/or improving the quantity, visibility, and relevance of positive online content for a company. Online reputation management is often abbreviated as "ORM" or "SERM" which stands for "Search Engine Reputation Management", the terms are often used interchangeably.  The objective of a Reputation Management campaign is to improve how an online profile - be it a person, product, service, political entity, or company - is seen online. Reputation Management services use SEO, PR, content design and management, search engine marketing, review management, negotiation, legal methods, and psychology to achieve the goals of their clients.', 
+#   string_2: 'A Valuable Asset', 
+#   string_3: 'For business owners, your online reputation is your most valuable asset as search results will impact the decisions of potential customers. Good online reputation management is not only about reacting well to what people say about you, or your company but also about how and when to react. We can help create/restore and protect the reputation you’ve worked hard to build.', 
+#   string_4: 'What\'s Involved?', 
+#   string_5: 'Online reputation services are used to improve Yelp, Google, Facebook, Twitter, and almost any other page that collects data about your brand. We can improve search results, and to remove or suppress any negative online content. The practice of ORM often includes a number of different disciplines and frameworks. The end result of each is usually the same - We improve how a brand is seen online.', 
+#   string_6: 'Guaranteed Results', 
+#   string_7: 'We are one of the very few online Reputation Management firms that guarantees results -- If your you do not see an improvement in the first 90 days, or if you are just not happy with the service: You get your money back.', 
+#   string_8: 'string_8', 
+#   string_9: 'string_9', 
+#   string_10: 'string_10', 
+#   string_11: 'string_11', 
+#   string_12: 'string_12', 
+#   string_13: 'string_13', 
+#   string_14: 'string_14', 
+#   string_15: 'string_15', 
+#   template_one_id: 1, 
+#   show_as_solo_link: false, 
+#   show_in_dropdown: true, 
+#   hide: false
+# )
